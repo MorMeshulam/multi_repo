@@ -1,6 +1,6 @@
 {
   "name": "@morme/hellow-world",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Morme",
   "homepage": "",
@@ -19,5 +19,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "6727705bd99c428362858cf4e1562c3cf8246fc2"
 }
