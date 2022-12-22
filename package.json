@@ -1,0 +1,11 @@
+{
+  "name": "stampli-commmon-ui",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^6.1.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
