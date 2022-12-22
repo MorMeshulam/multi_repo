@@ -1,6 +1,6 @@
 {
   "name": "@mormeshulam/aloha-world",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "> TODO: description",
   "author": "Morme",
   "homepage": "",
@@ -20,5 +20,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "2c8c09fd8735db9541dbca02447b79d83abbb5a9"
+  "gitHead": "df24aa1678c65311e1563bc81a07731c9f9ee0c6"
 }
